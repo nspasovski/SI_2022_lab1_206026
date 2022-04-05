@@ -2,4 +2,4 @@ bacon x 5
 tuna x 5
 eggs x 5
 milk x 5
-bread x 5
+bread x 10
