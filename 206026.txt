@@ -1,0 +1,47 @@
+commit 513c9b61043e8b18f829054ed6cea73b4afbf68d (HEAD -> branch2)
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 19:27:59 2022 +0200
+
+    Modify item #4 and add item #6
+
+commit 9da387de4c578f7a6b6ccea53e654dce01b6f667 (origin/branch2, branch2)
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 19:14:49 2022 +0200
+
+    Modify item #4
+
+commit de2511a31c4e09874814db98297e06a72b416658 (HEAD -> master, origin/master, origin/HEAD)
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 19:12:04 2022 +0200
+
+    Change quantity of item #2
+
+commit 895ff0de68fc0a85e0754c003ccb2c12295de2b4 (origin/branch1, branch1)
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 19:10:49 2022 +0200
+
+    Change quantity of item #5
+
+commit b6ca2504180257b20565dc8984229133a556b37a
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 18:38:12 2022 +0200
+
+    Add quantities to the items
+
+commit 71fcaf1455f70c2cc9bfa433f4367c05eb1cc2b0
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 18:36:44 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 6a4f6035d12975b5dfd737b73ce059de889d3bcd
+Author: Nikola Spasovski <nikola.spasovski.01@gmail.com>
+Date:   Tue Apr 5 18:35:55 2022 +0200
+
+    readme
+
+commit 3256768443c41b4eae527e3963df050762c73cfa
+Author: nspasovski <102992497+nspasovski@users.noreply.github.com>
+Date:   Tue Apr 5 18:27:29 2022 +0200
+
+    Initial commit
