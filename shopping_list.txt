@@ -3,3 +3,4 @@ tuna x 10
 eggs x 5
 cake x 5
 bread x 10
+cheese x 5
